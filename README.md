@@ -2,7 +2,7 @@
 
 ### A passionate Data Scientist 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SKYTAN-050107&label=Profile views&color=0e75b6&style=flat" alt="SKYTAN-050107" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SKYTAN-050107&label=Profile+views&color=0e75b6&style=flat" alt="SKYTAN-050107" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SKYTAN-050107" alt="SKYTAN-050107" /></a> </p>
 
@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/SKYTAN-050107" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="SKYTAN-050107" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tan-shi-kai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tan Shi Kai" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tan-shi-kai-78937a359/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tan Shi Kai" height="30" width="40" /></a>
 <a href="https://instagram.com/sytn05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sytn05" height="30" width="40" /></a>
 <a href="https://leetcode.com/Skytan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Skytan" height="30" width="40" /></a>
 </p>
