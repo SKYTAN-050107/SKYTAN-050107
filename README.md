@@ -2,7 +2,7 @@
   <img width="300" src="./assets/turtle.gif" alt="Waving turtle"/>
 </div>
 
-# Hi 👋, I'm TAN SHI KAI
+# Hi 👋, I'm TAN SHI KAI, Just call me sky
 
 ### A passionate Data Scientist
 
@@ -12,7 +12,7 @@
 
 - 🌱 I'm currently learning **Deep Learning and Artificial Intelligence**
 - 📫 How to reach me **skycode112324@gmail.com**
-- ⚡ Fun fact **Love gym, badminton and jogging**
+- ⚡ Fun fact **Love gym, badminton, jogging and turtle 𓆉𓆉𓆉**
 
 ## 🔗 Connect with Me
 
