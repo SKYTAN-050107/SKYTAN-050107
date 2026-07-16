@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SKYTAN-050107&label=Profile+views&color=0e75b6&style=flat" alt="SKYTAN-050107" /> </p>
 
-- 🌱 I'm currently learning **Deep Learning and Artificial Intelligence**
+- 🌱 I'm currently learning **Deep Learning ,Artificial Intelligence and quantitative finance learning in WorldQuant Brain as Consultant**
 - 📫 How to reach me **skycode112324@gmail.com**
 - ⚡ Fun fact **Love gym, badminton, jogging and turtle 𓆉𓆉𓆉**
 
